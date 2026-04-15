@@ -1,0 +1,4 @@
+Dataset source: Mikail Altundas
+Repository: https://github.com/mikailaltundas/datasets-for-training/tree/main/wind-power-dataset
+License: MIT License
+Copyright (c) 2024 Mikail Altundas
